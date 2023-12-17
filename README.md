@@ -87,7 +87,7 @@ Please note the following compatibility details:
 
 - Install via Wallce Toolkit and thats it. You have successfully installed and confiured your device to enable hotspot.
 
-- For creating your own apps refer to [KaiOS/docs]("https://www.kaiostech.com/docs/)
+- For creating your own apps refer to [KaiOS/docs](https://www.kaiostech.com/docs/)
 
 - For installing community made apps refer from sources like [Bananahackers](https://github.com/bananahackers).
 
