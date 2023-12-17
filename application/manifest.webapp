@@ -1,0 +1,13 @@
+{
+  "version": ".",
+ "type": "certified",  "name": "Simple Hotspot App",
+  "description": "A Wifi Hotspot app",
+  "launch_path": "/index.html",
+  "icons": {
+    "256": "/icons/icon256x256.png"
+  }, "permissions": { "settings":{"access":"readwrite"} }, 
+  "developer": {
+    "name": "Swapnanil1",
+    "url": "https://github.com/swapnanil1/"
+  }
+}
